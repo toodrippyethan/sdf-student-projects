@@ -1,6 +1,5 @@
 # Project Overview
-Here you will write a short description of your project.
-
+This project is a Codespace cat portfoloio that highlights information about me and also a way to be able to contact me.
 
 # Presentation
 
